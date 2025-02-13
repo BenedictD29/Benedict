@@ -3,7 +3,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    filter: blur(10px);
     margin:0;
 }
 .profile{
